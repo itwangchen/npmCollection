@@ -1,0 +1,36 @@
+/deep/ .el-table th {
+  background-color: #ecececff;
+}
+/deep/ .el-table th,
+.el-table tr,
+.el-table {
+  border-color: #d7d7d7ff;
+}
+/deep/ .el-pagination.is-background .el-pager li:not(.disabled):hover {
+  color: #606266ff;
+}
+/deep/ .el-pagination.is-background .el-pager li:not(.disabled).active {
+  background-color: #f25b43ff;
+}
+/deep/ .el-form-item {
+  margin-bottom: 16px;
+}
+/deep/ .el-input__inner {
+  height: 36px;
+  line-height: 36px;
+}
+/deep/ .el-dialog__header {
+  border-bottom: 1px solid #D7D7D7FF;
+  padding: 12px 20px 12px;
+}
+.page-title {
+  height: 88px;
+  line-height: 88px;
+  background: rgba(251, 251, 251, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Medium, PingFang SC;
+  font-weight: 500;
+  color: rgba(44, 44, 44, 1);
+  text-indent: 1em;
+  border-bottom: solid 2px #ecececff;
+}
