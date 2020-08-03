@@ -1,6 +1,6 @@
 {
   "name": "vue-password-box",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "密码伪态输入框",
   "main": "dist/passwordBox.min.js",
   "scripts": {
