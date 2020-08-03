@@ -1,17 +1,15 @@
-// // index.js
-// import wcPassword from './wcPassword.vue'
+// index.js
+// import wcPassword from './wc-password.vue'
+// export default wcPassword
 
-// const install = Vue => {
-//   Vue.component('wcPassword', wcPassword)
-// }
+import wcPassword from './wc-password.vue'
+const install = Vue => {
+  Vue.component('wcPassword', wcPassword)
+}
 
-// if (typeof window !== undefined && window.Vue) {
-//   install(window.Vue)
-// }
+if (typeof window !== undefined && window.Vue) {
+  install(window.Vue)
+}
 
-// export default { install }
-
-
-import wcPassword from './wcPassword.vue'
-export default wcPassword
+export default { install }
 

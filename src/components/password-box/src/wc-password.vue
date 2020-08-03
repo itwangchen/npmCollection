@@ -10,7 +10,7 @@
   />
 </template>
 
-  <script>
+<script>
 export default {
   name: "wcPassword",
   model: {
@@ -55,7 +55,9 @@ export default {
       // 解决在win8中光标总是到input框的最后
       weitai.selectionEnd = p;
       weitai.selectionStart = p;
-      this.$emit("input", truePassword);
+      // console.log(truePassword,this.$emit);
+      this.$emit("change", truePassword);
+      this.$emit("input", newPassword);
     },
   },
 };
@@ -75,7 +77,7 @@ export default {
   background-color: #fff;
   background-image: none;
   border-radius: 4px;
-border:1px solid rgba(155,155,155,1);
+  border: 1px solid rgba(155, 155, 155, 1);
   box-sizing: border-box;
   color: #606266;
   display: inline-block;

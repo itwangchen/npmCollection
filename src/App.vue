@@ -1,3 +1,10 @@
+<template>
+  <div id="app">
+    <div>{{pwd}}</div>
+    <mini-keyboard v-model="pwd" />
+    <wc-password maxlength="6" @change="handleChange" />
+  </div>
+</template>
 <script>
 import miniKeyboard from "@/components/mini-calculator/src/";
 import wcPassword from "@/components/password-box/src/";
@@ -5,6 +12,7 @@ import wcPassword from "@/components/password-box/src/";
 export default {
   components: {
     miniKeyboard,
+    wcPassword,
   },
   data() {
     return {
@@ -15,18 +23,8 @@ export default {
     handleChange(e) {
       this.pwd = e;
       console.log(e, "change");
-      // <password-box  onInput={this.handleChange}/>
     },
-  },
-  render() {
-    return (
-      <div id="app">
-        <div>{this.pwd}</div>
-        <wcPassword maxlength="6" v-model={this.pwd} />1
-        <mini-keyboard v-model={this.pwd} />
-      </div>
-    );
-  },
+  }
 };
 </script>
 

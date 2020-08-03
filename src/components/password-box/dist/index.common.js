@@ -250,6 +250,17 @@ module.exports = document && document.documentElement;
 
 /***/ }),
 
+/***/ "24cc":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wc_password_vue_vue_type_style_index_0_id_509d93b8_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("fba2");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wc_password_vue_vue_type_style_index_0_id_509d93b8_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wc_password_vue_vue_type_style_index_0_id_509d93b8_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wc_password_vue_vue_type_style_index_0_id_509d93b8_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
 /***/ "2cfb":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -961,17 +972,6 @@ module.exports = function (key) {
 
 /***/ }),
 
-/***/ "8ec5":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wcPassword_vue_vue_type_style_index_0_id_9bac039c_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("df76");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wcPassword_vue_vue_type_style_index_0_id_9bac039c_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wcPassword_vue_vue_type_style_index_0_id_9bac039c_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_10_oneOf_1_0_node_modules_css_loader_index_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_wcPassword_vue_vue_type_style_index_0_id_9bac039c_scoped_true_lang_less___WEBPACK_IMPORTED_MODULE_0___default.a); 
-
-/***/ }),
-
 /***/ "95b6":
 /***/ (function(module, exports) {
 
@@ -1234,13 +1234,6 @@ module.exports = !__webpack_require__("80dd")(function () {
 
 /***/ }),
 
-/***/ "df76":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "dfd7":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1474,12 +1467,12 @@ function _typeof(obj) {
 
   return _typeof(obj);
 }
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"ed96b3c4-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/password-box/src/wcPassword.vue?vue&type=template&id=9bac039c&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"ed96b3c4-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/password-box/src/wc-password.vue?vue&type=template&id=509d93b8&scoped=true&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('input',{ref:"passwordWeiTai",staticClass:"input__inner password-box",attrs:{"id":"password","type":"text","password":""},domProps:{"value":_vm.val},on:{"input":_vm.handleChange}})}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/components/password-box/src/wcPassword.vue?vue&type=template&id=9bac039c&scoped=true&
+// CONCATENATED MODULE: ./src/components/password-box/src/wc-password.vue?vue&type=template&id=509d93b8&scoped=true&
 
 // EXTERNAL MODULE: ./src/components/password-box/node_modules/core-js/modules/es6.regexp.replace.js
 var es6_regexp_replace = __webpack_require__("4154");
@@ -1487,7 +1480,7 @@ var es6_regexp_replace = __webpack_require__("4154");
 // EXTERNAL MODULE: ./src/components/password-box/node_modules/core-js/modules/es6.number.constructor.js
 var es6_number_constructor = __webpack_require__("b6bd");
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/password-box/src/wcPassword.vue?vue&type=script&lang=js&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/password-box/src/wc-password.vue?vue&type=script&lang=js&
 
 
 //
@@ -1502,7 +1495,7 @@ var es6_number_constructor = __webpack_require__("b6bd");
 //
 //
 //
-/* harmony default export */ var wcPasswordvue_type_script_lang_js_ = ({
+/* harmony default export */ var wc_passwordvue_type_script_lang_js_ = ({
   name: "wcPassword",
   model: {
     prop: "val",
@@ -1543,15 +1536,17 @@ var es6_number_constructor = __webpack_require__("b6bd");
       weitai.value = newPassword; // 解决在win8中光标总是到input框的最后
 
       weitai.selectionEnd = p;
-      weitai.selectionStart = p;
-      this.$emit("input", truePassword);
+      weitai.selectionStart = p; // console.log(truePassword,this.$emit);
+
+      this.$emit("change", truePassword);
+      this.$emit("input", newPassword);
     }
   }
 });
-// CONCATENATED MODULE: ./src/components/password-box/src/wcPassword.vue?vue&type=script&lang=js&
- /* harmony default export */ var src_wcPasswordvue_type_script_lang_js_ = (wcPasswordvue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/components/password-box/src/wcPassword.vue?vue&type=style&index=0&id=9bac039c&scoped=true&lang=less&
-var wcPasswordvue_type_style_index_0_id_9bac039c_scoped_true_lang_less_ = __webpack_require__("8ec5");
+// CONCATENATED MODULE: ./src/components/password-box/src/wc-password.vue?vue&type=script&lang=js&
+ /* harmony default export */ var src_wc_passwordvue_type_script_lang_js_ = (wc_passwordvue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./src/components/password-box/src/wc-password.vue?vue&type=style&index=0&id=509d93b8&scoped=true&lang=less&
+var wc_passwordvue_type_style_index_0_id_509d93b8_scoped_true_lang_less_ = __webpack_require__("24cc");
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -1653,7 +1648,7 @@ function normalizeComponent (
   }
 }
 
-// CONCATENATED MODULE: ./src/components/password-box/src/wcPassword.vue
+// CONCATENATED MODULE: ./src/components/password-box/src/wc-password.vue
 
 
 
@@ -1663,24 +1658,26 @@ function normalizeComponent (
 /* normalize component */
 
 var component = normalizeComponent(
-  src_wcPasswordvue_type_script_lang_js_,
+  src_wc_passwordvue_type_script_lang_js_,
   render,
   staticRenderFns,
   false,
   null,
-  "9bac039c",
+  "509d93b8",
   null
   
 )
 
-/* harmony default export */ var wcPassword = (component.exports);
+/* harmony default export */ var wc_password = (component.exports);
 // CONCATENATED MODULE: ./src/components/password-box/src/index.js
 
 // index.js
+// import wcPassword from './wc-password.vue'
+// export default wcPassword
 
 
 var src_install = function install(Vue) {
-  Vue.component('wcPassword', wcPassword);
+  Vue.component('wcPassword', wc_password);
 };
 
 if ((typeof window === "undefined" ? "undefined" : _typeof(window)) !== undefined && window.Vue) {
@@ -1689,15 +1686,20 @@ if ((typeof window === "undefined" ? "undefined" : _typeof(window)) !== undefine
 
 /* harmony default export */ var src = ({
   install: src_install
-}); // index.js
-// import wcPassword from './wcPassword.vue'
-// export default wcPassword
+});
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
 
 
 /* harmony default export */ var entry_lib = __webpack_exports__["default"] = (src);
 
 
+
+/***/ }),
+
+/***/ "fba2":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ })
 

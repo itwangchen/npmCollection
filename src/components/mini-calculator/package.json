@@ -1,6 +1,6 @@
 {
   "name": "vue-mini-keyboard",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "小键盘组件",
   "main": "dist/miniKeyboard.min.js",
   "scripts": {
