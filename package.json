@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.2",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "carddragger": "^0.2.4",
     "core-js": "^2.6.5",
     "driver.js": "^0.9.7",
